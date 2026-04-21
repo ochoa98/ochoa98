@@ -3,7 +3,7 @@
 
 # Intro
 Hello, I’m Ernesto. RevOps Analyst with expertise in revenue analytics, financial modeling, and data-driven decision-making.
-
+<br><br>
 Analyzing revenue performance and business metrics using Excel and BI tools.
 Building financial models including forecasting, valuation, and scenario analysis.
 Developing dashboards and reports to drive strategic insights.
