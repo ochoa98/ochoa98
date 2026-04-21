@@ -23,8 +23,11 @@ Projects
 Tools
 <br><br>
 Languages/Tools: Excel, SQL, Python (learning)
+<br><br>
 Analytics: Power BI, Data Analysis, Forecasting
+<br><br>
 RevOps: Pipeline Optimization, Sales Planning, Marketing Analytics
+<br><br>
 Finance: Forecasting, Reporting, Scenario Modeling, Monte Carlo Simulation
 <br><br>
 Connect with Me
