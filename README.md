@@ -1,5 +1,5 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/59c97964-c664-49d6-8092-2124583a132f" />
-
+ 
 
 # Intro
 Hello, I’m Ernesto. RevOps Analyst with expertise in revenue analytics, financial modeling, and data-driven decision-making.
