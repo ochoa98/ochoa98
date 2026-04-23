@@ -3,7 +3,9 @@
 <br>
 Intro
 <br><br>
-Hello, I’m Ernesto. RevOps Analyst with expertise in revenue analytics, financial modeling, and data-driven decision-making. Welcome to my portfolio, where I showcase real-world projects in financial modeling, forecasting, and analytics.
+Hello, I’m Ernesto. RevOps Analyst with expertise in revenue analytics, financial modeling, and data-driven decision-making. 
+<br><br>
+Welcome to my portfolio, where I showcase real-world projects in financial modeling, forecasting, and analytics.
 <br><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=RevOps+Analyst;Financial+Modeling;Data+Analytics" />
